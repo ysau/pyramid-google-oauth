@@ -13,3 +13,5 @@ Save Google O-auth credential as client_secret.json
 
 ### Step 3
 Run main.py to verify everything is working!
+
+Credits: Starter code was taken from http://authomatic.github.io/authomatic/examples/pyramid-simple.html
